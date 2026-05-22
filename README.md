@@ -2,9 +2,7 @@
 
 COMPANY: CODETECH TECHNOLGIES
 
-NAME: Syed Husamuddin
-
-NCS ID: E19E86-0116588288923
+NAME: Mohammed Abdus Samad
 
 DOMAIN: Artificial Intelligence
 
